@@ -24,7 +24,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/lzzy12/python-aria-mirror-bot mirror-bot/
+git clone https://github.com/venom4525/python-aria-mirror-bot
 cd mirror-bot
 ```
 
@@ -131,3 +131,5 @@ For using your premium accounts in youtube-dl, edit the netrc file (in the root 
 machine host login username password my_youtube_password
 ```
 where host is the name of extractor (eg. youtube, twitch). Multiple accounts of different hosts can be added each separated by a new line
+
+
